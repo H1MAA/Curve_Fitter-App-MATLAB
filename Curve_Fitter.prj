@@ -1,22 +1,23 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="1837267068" file="D:\Matlab Programs\Numerical Lab Scripts\Curve_Fitter.prj" location="D:\Matlab Programs\Numerical Lab Scripts" name="Curve_Fitter" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="2186073238" file="D:\Matlab Programs\Numerical Lab Scripts\Curve_Fitter.prj" location="D:\Matlab Programs\Numerical Lab Scripts" name="Curve_Fitter" target="target.mlapps" target-name="Package App">
     <param.appname>Curve_Fitter</param.appname>
-    <param.authnamewatermark>Ibrahim Mohamed</param.authnamewatermark>
+    <param.authnamewatermark />
     <param.email />
     <param.company />
     <param.icon />
     <param.icons />
     <param.summary />
     <param.description />
-    <param.screenshot>C:\Users\ibrah\AppData\Local\Temp\tpae8a80f1_093a_4fb0_879d_a41f8e76b9f8.png</param.screenshot>
+    <param.screenshot>C:\Users\ibrah\AppData\Local\Temp\tp55cf3125_25c1_4716_9301_0e740548abb5.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
     <param.platforms />
     <param.output>${PROJECT_ROOT}</param.output>
-    <param.guid>4183b310-499c-4d66-850b-e2060d808607</param.guid>
+    <param.guid>762620b7-915c-401e-9da6-cffb932adc4a</param.guid>
     <unset>
+      <param.authnamewatermark />
       <param.email />
       <param.company />
       <param.icon />
@@ -31,7 +32,7 @@
       <param.output />
     </unset>
     <fileset.main>
-      <file>${PROJECT_ROOT}\timer_example.mlapp</file>
+      <file>${PROJECT_ROOT}\Curve_Fitter.mlapp</file>
     </fileset.main>
     <fileset.depfun />
     <fileset.resources />
